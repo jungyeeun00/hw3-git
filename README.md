@@ -1,2 +1,2 @@
 this is test
-email :  alice@hansung.ac.kr
+email :  alice2@hansung.ac.kr
